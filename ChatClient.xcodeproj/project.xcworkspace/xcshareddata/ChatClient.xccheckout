@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>160E3897-D72C-4451-915D-FA0795B152C1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ChatClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>225AAAE0-981A-4057-8832-88BD3D0CE682</key>
+		<string>https://github.com/IceAgeQQ/SmallChat.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ChatClient.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>225AAAE0-981A-4057-8832-88BD3D0CE682</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/IceAgeQQ/SmallChat.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>225AAAE0-981A-4057-8832-88BD3D0CE682</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>225AAAE0-981A-4057-8832-88BD3D0CE682</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ChatClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>
